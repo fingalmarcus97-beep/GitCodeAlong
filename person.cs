@@ -8,5 +8,7 @@ namespace Git_codealong_14_10_26
     {
         public string Name { get; set; }    
         public int Birthyear { get; set; }  
+
+        
     }
 }
